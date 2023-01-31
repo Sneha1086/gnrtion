@@ -1,0 +1,13 @@
+body{
+    background-image: url(./image/laptop-room-on-the-desk-keyboard-mouse-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 75px;
+    
+
+}
+.btn{
+background-color: rgb(222, 226, 228);
+width: 100px;
+color: black;
+}
